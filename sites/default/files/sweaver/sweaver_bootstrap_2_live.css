@@ -1,0 +1,100 @@
+body #navbar {
+  background-color: #f5c651;
+  border-top-color: #fa879c;
+  border-right-color: #fa879c;
+  border-bottom-color: #fa879c;
+  border-left-color: #fa879c;
+  color: #b543b5;
+}
+
+.html .container {
+  color: #b5434c;
+}
+
+body .navbar-default {
+  color: #b543b5;
+}
+
+.navbar-default {
+  color: #a11da1;
+}
+
+#navbar {
+  color: #6b2d6b;
+}
+
+li a {
+  color: #5d9118;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  font-weight: bold;
+  font-style: normal;
+  text-align: left;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+ul li a {
+  color: #5d9118;
+}
+
+ul li {
+  color: #transparent;
+}
+
+.container .row {
+  background-color: #f2f2f2;
+}
+
+body .main-container {
+  background-color: #f2f2f2;
+}
+
+body .footer {
+  background-color: #f2f2f2;
+}
+
+body {
+  background-color: #f2f2f2;
+}
+
+.html .navbar-default {
+  color: #5d9118;
+}
+
+.navbar .container {
+  color: #5d9118;
+}
+
+body .navbar div {
+  color: #5d9118;
+}
+
+.dropdown-toggle {
+  background-color: #f5c651;
+}
+
+.main-container {
+  color: #b5434c;
+}
+
+li {
+  color: #transparent;
+}
+
+a {
+  color: #5d9118;
+}
+
+.col-sm-9 h1 {
+  color: #b5434c;
+}
+
+.container .navbar-collapse {
+  color: #5d9118;
+}
+
+.field-item .jumbotron {
+  background-color: #ffffff;
+}
+
