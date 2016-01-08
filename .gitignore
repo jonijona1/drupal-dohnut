@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 # Ignore configuration files that may contain sensitive information 
 # Ignore paths that contain user-generated
+=======
+# Ignore configuration files that may contain sensitive information.
+
+# Ignore paths that contain user-generated content.
+
+
+>>>>>>> origin/jonathan-branch
